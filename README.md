@@ -12,7 +12,7 @@
 - 📫 How to reach me **wabgsilva@gmail.com**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binuka02" alt="binuka02" /></a> </p>
+<p align="left" style="height:20px; width:20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binuka02" alt="binuka02" /></a> </p>
 
 
 
