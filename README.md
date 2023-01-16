@@ -46,7 +46,7 @@
 </p>
 &nbsp;&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandaru-j" /></p><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandaru-j" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=binuka02&show_icons=true&locale=en&theme=dark" alt="binuka02" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binuka02&theme=dark" alt="binuka02" />
 
