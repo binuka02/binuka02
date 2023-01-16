@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Binuka Silva</h1>
 <h3 align="center">Undergraduate Software Engineering Student, Interested in Web Developments</h3>
 &nbsp;&nbsp;
-<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tzcjeudun72p590ahzs11y3vmayu44wf7hlecrbd&rid=giphy.gif&ct=g"/>
+
 
 
 
