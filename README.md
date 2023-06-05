@@ -6,10 +6,9 @@
 
 
 
-- 🔭 I’m currently Researching on **AI Systems**
-- 🌱 I’m currently learning **Opencv Matlib and Tensors**
-- 👯 I’m looking to collaborate on **ML Data Analysis**
-- 📫 How to reach me **wabgsilva@gmail.com**
+- 🔭 I’m currently researching on **AI & Data Analytics**
+- 👯 I’m looking to collaborate on **Front-End Developments**
+- 📫 Reach me on **wabgsilva@gmail.com**
 
 
 <p align="left" style="height:20px; width:20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binuka02" alt="binuka02" /></a> </p>
@@ -18,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/binuka02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandaruj19" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/binuka-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru jayathilaka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wabgsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandarumanga2000" height="30" width="40" /></a>
+<a href="https://twitter.com/binuka02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binuka02" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binuka-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Binuka Silva" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/wabgsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="binukasilva" height="30" width="40" /></a>
 </p>
 
 
@@ -46,7 +45,7 @@
 </p>
 &nbsp;&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandaru-j" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="binuka02" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binuka02&show_icons=true&locale=en&theme=dark" alt="binuka02" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binuka02&theme=dark" alt="binuka02" /></p>
 
