@@ -1,17 +1,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=binuka02&label=Profile%20views&color=0e75b6&style=flat" alt="binuka02" /> </p>
+
+
 <h1 align="center">Hi👋, I'm Binuka Silva</h1>
-<h3 align="center">Software Engineer</h3>
 &nbsp;&nbsp;
 
 
 
 
-- 🔭 I’m currently researching on **AI & Data Analytics**
-- 👯 I’m looking to collaborate on **Front-End Developments**
+- 🔭 I’m currently researching on **AI & Data Science**
+- 👯 I’m looking to collaborate on **Full-Stack Developments** & **Mobile App Developments**
 - 📫 Reach me on **wabgsilva@gmail.com**
-
-
-<p align="left" style="height:20px; width:20px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binuka02" alt="binuka02" /></a> </p>
 
 
 
@@ -45,8 +43,8 @@
 </p>
 &nbsp;&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="binuka02" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binuka02&show_icons=true&locale=en&theme=dark" alt="binuka02" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binuka02&theme=dark" alt="binuka02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-j&show_icons=true&locale=en&layout=compact&theme=dark" alt="binuka02" /></p></br></br></br></br></br></br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=binuka02&show_icons=true&locale=en&theme=dark" alt="binuka02" /></p></br></br></br></br></br></br></br></br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=binuka02&theme=dark" alt="binuka02" /></p>
 
 
