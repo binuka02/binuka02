@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=binuka02&label=Profile%20views&color=0e75b6&style=flat" alt="binuka02" /> </p>
 <h1 align="center">Hi👋, I'm Binuka Silva</h1>
-<h3 align="center">Undergraduate Software Engineering Student, Interested in Web Developments</h3>
+<h3 align="center">Software Engineer</h3>
 &nbsp;&nbsp;
 
 
